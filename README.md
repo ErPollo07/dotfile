@@ -1,1 +1,3 @@
 # DOTFILE
+
+All my configurations
